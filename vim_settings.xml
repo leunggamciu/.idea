@@ -1,0 +1,139 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555085427440">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/net/ConnectException.java" timestamp="1548702991340">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" timestamp="1555347156918">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/foobar/Hello.java" timestamp="1553794631614">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Timer.java" timestamp="1553532120362">
+        <mark key="'" line="160" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="38" column="6" filename="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/net/ConnectException.java" />
+      <jump line="0" column="0" filename="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/net/ConnectException.java" />
+      <jump line="8" column="24" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+      <jump line="161" column="4" filename="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Timer.java" />
+      <jump line="176" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Timer.java" />
+      <jump line="160" column="15" filename="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Timer.java" />
+      <jump line="6" column="43" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="3" column="14" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ey</text>
+      </register>
+      <register name="-" type="4">
+        <text>ey</text>
+      </register>
+      <register name="/" type="4">
+        <text>ActionListener</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldEtleSgpKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2suCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZC5lbnRyeVNldCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5RdWV1ZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBRdWV1ZTw+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBRdWV1ZTxJbnRlZ2VyPiBxID0gbmV3IFF1ZXVlPEludGVnZXI+KCkgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ActionListener</last-search>
+      <last-offset />
+      <last-pattern>ActionListener</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>start(</entry>
+        <entry>ActionListener</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
