@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555350303368">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555521858967">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/net/ConnectException.java" timestamp="1548702991340">
         <mark key="'" line="0" column="0" />
@@ -51,8 +52,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Rmlyc3QoPyBleHRlbmRzIEVtcGxveWVlIGEpIHsKCiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Manager</text>
@@ -63,32 +64,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldEtleSgpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Rmlyc3QoPyBleHRlbmRzIEVtcGxveWVlIGEpIHsKCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBNYW5hZ2VyW10gbSA9IG5ldyBNYW5hZ2VyWzEwXTsKICAgICAgICBFbXBsb3llZVtdIGUgPSBtOwogICAgICAgIAogICAgICAgIGVbMF0gPSBuZXcgRW1wbG95ZWUoKTs=</text>
+        <text encoding="base64">ICAgIHZvaWQgc2V0Rmlyc3QoPyBleHRlbmRzIEVtcGxveWVlIGEpIHsKCiAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBNYW5hZ2VyW10gbSA9IG5ldyBNYW5hZ2VyWzEwXTsKICAgICAgICBFbXBsb3llZVtdIGUgPSBtOwogICAgICAgIAogICAgICAgIGVbMF0gPSBuZXcgRW1wbG95ZWUoKTs=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIERvdWJsZT4gaWQgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIGlkLnB1dCgxMCwgMTAuMSk7CgogICAgICAgIGZvciAoTWFwLkVudHJ5PEludGVnZXIsIERvdWJsZT4gb2s6IGlkLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldEtleSgpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldFZhbHVlKCkpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2suCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
