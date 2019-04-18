@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1555524791942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555521858967">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555606524612">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/summer/src/main/java/Application.java" timestamp="1555525138412">
         <mark key="[" line="4" column="0" />
@@ -67,8 +67,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBNYW5hZ2VyIG0gPSBuZXcgRW1wbG95ZWUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -80,31 +80,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldEtleSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNYW5hZ2VyIG0gPSBuZXcgRW1wbG95ZWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbXBsb3llZSBlID0gbmV3IE1hbmFnZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNYW5hZ2VyIG0gPSBuZXcgRW1wbG95ZWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIE1hbmFnZXIoKSB7CgogICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPjwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIHdvcmxkIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoaSIpOw==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
