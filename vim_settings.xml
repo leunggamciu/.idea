@@ -3,11 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1555524791942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/HelloWorld.java" timestamp="1555521858967">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/summer/src/main/java/Application.java" timestamp="1555525138412">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/summer/pom.xml" timestamp="1555524284178">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/net/ConnectException.java" timestamp="1548702991340">
         <mark key="'" line="0" column="0" />
@@ -52,11 +67,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Manager</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>ActionListener</text>
@@ -65,19 +80,19 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9rLmdldEtleSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHZvaWQgc2V0Rmlyc3QoPyBleHRlbmRzIEVtcGxveWVlIGEpIHsKCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBNYW5hZ2VyW10gbSA9IG5ldyBNYW5hZ2VyWzEwXTsKICAgICAgICBFbXBsb3llZVtdIGUgPSBtOwogICAgICAgIAogICAgICAgIGVbMF0gPSBuZXcgRW1wbG95ZWUoKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -85,11 +100,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPjwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
