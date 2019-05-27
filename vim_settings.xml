@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/java/com/leunggamciu/spring/Bar.java" timestamp="1558933675384">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1558416219308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,11 +48,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/java/com/leunggamciu/spring/Foo.java" timestamp="1558550096851">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/java/com/leunggamciu/spring/Foo.java" timestamp="1558933913585">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/java/hello/Application.java" timestamp="1558544500305">
         <mark key="[" line="4" column="0" />
@@ -66,11 +72,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/resources/services.xml" timestamp="1558549913835">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="45" />
+      <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/resources/services.xml" timestamp="1558933938334">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/Lab/Java/spring/src/main/java/hello/Greeting.java" timestamp="1558438637192">
         <mark key="[" line="6" column="4" />
@@ -114,11 +120,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/leunggamciu/helloworld/TalkingClock.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>'foo'</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>ActionListener</text>
@@ -127,13 +133,13 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5saCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlYW4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGJhcjsKICAgIHByaXZhdGUgdm9pZCBmdW5jKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYXIpOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -142,16 +148,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgYmFyID0gMTAwOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmFyKTs=</text>
+        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHR5cGU9ImludCIgdmFsdWU9IjEyMyIvPgogICAgICAgIDxjb25zdHJ1Y3Rvci1hcmcgdHlwZT0iaW50IiB2YWx1ZT0iMzIxIi8+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxoOwogICAgcHJpdmF0ZSBpbnQgcmg7CgogICAgcHVibGljIEZvbyhpbnQgbGgsIGludCByaCkgewogICAgICAgIHRoaXMubGggPSBsaDsKICAgICAgICB0aGlzLnJoID0gcmg7CiAgICB9CgogICAgcHVibGljIHZvaWQgZWNob1N0dWZmKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLmxoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5yaCk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
