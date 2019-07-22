@@ -5,8 +5,8 @@
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="47" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="523342f1:169a649e8fa:-8000" />
     <option name="version" value="3.10.0" />
   </component>
